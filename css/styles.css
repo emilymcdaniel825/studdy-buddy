@@ -1,0 +1,65 @@
+
+#title {background-color: rgba(247, 243, 128, 0.718); }
+
+h1 {font-family: 'Raleway', sans-serif; font-size: 3rem; line-height: 1.5; font-weight: bold;}
+
+.container-fluid {padding: 3% 15%;}
+
+.navbar-brand {font-family: 'Nanum Gothic'; font-size: xx-large; font-style: italic;}
+
+.navbar {padding: 0 0 4.5rem;}
+
+.nav-item {padding: 0 18px}
+
+.nav-link {font-family: 'Quicksand', sans-serif; font-size: large;}
+
+.download-button { margin: 5% 3% 5% 0%}
+
+.title-image {width: 60%; transform: rotate(15deg); position: absolute;}
+
+#features {background-color: white; padding: 7% 15%; z-index: 1; position: relative;}
+
+.feature-box {text-align: center; padding: 5%}
+
+h3 {font-family:'Raleway', sans-serif; font-weight: bold;}
+
+p {color: #8f8f8f;}
+
+.icon {color:rgb(52, 177, 184); margin: 1rem}
+
+.icon:hover {color:rgba(27, 27, 24, 0.326)}
+
+#testimonials { text-align: center; background-color: rgb(102, 194, 197);}
+
+.carousel-item {padding: 7% 15%; }
+
+h2 {color: white;font-family:'Raleway', sans-serif; font-weight: bold;}
+
+.testimonials-image {width: 20%; border-radius: 50%; margin: 20px}
+
+em {font-family: 'Quicksand', sans-serif; font-weight: bolder;}
+
+#press {background-color: rgb(102, 194, 197); text-align: center; }
+
+.press-logo {width: 10%; margin: 20px 15px 50px;}
+
+#pricing {padding: 50px; text-align: center;}
+
+.pricing-header {color: black; font-family:'Raleway', sans-serif; font-weight: bolder}
+
+.pricing-column {padding: 3% 2%}
+
+.card {margin: 20px} 
+
+.pricing-body-header {color:black; font-family: 'Slabo 27px', serif;;}
+
+#cta {background-color: rgba(240, 237, 161, 0.718); color:black; padding: 7% 15%; text-align: center;}
+
+.cta-heading {font-family: 'Nanum Gothic'; font-weight: bold; font-size: 2.5rem; line-height: 1.5;}
+
+#footer {padding: 7% 15%; text-align: center;}
+
+.social-icon {margin: 20px 10px}
+
+@media (max-width: 990px)
+{.title-image{position: static; transform: rotate(0deg);} #text{text-align: center;}}
